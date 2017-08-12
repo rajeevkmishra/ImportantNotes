@@ -1,0 +1,5 @@
+jdbc:sqlserver://DESKTOP-J56B3U1:1433;databaseName=rajeevm
+
+
+
+jdbc://DESKTOP-J56B3U1:1433;databaseName=rajeevm;user=sa;password={mishra@pc}
